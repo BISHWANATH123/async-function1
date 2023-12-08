@@ -1,0 +1,42 @@
+
+*{
+    text-align: center;
+}
+
+
+
+
+
+#div-1{
+    background-color: blue;
+    height: 400px;
+    width: 300px;
+    color: red;
+    border: 2px solid yellow;
+    justify-content: center;
+    margin: auto;
+    padding: 60px;
+    border-radius: 20px;
+   
+}
+
+#inp-1{
+    height: 100px;
+    width: 300px;
+    margin: auto;
+}
+#div-3{
+    margin-top: 80px;
+
+}
+
+
+h2{
+    color:yellow;
+    font-size: xx-large;
+}
+
+#display {
+    font-size: 2em;
+    margin-bottom: 20px;
+  }
